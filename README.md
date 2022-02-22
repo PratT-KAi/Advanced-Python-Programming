@@ -1,5 +1,6 @@
 # Advanced-Python-Programming
 
+**Version 1.0.0**
 
 ## Topics Covered
 1. Intro
